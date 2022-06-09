@@ -1,6 +1,28 @@
-import './styles/main.css'
+import './styles/style.css';
 
-import generateJoke from "./generateJoke";
+const list = [
+  {
+    id: 1,
+    description: 'Wash the dishes',
+    checkbox: 'false',
+  },
+  {
+    id: 2,
+    description: 'Complete the To do List',
+    checkbox: 'false',
+  },
+];
 
-console.log(generateJoke())
-console.log('I am okayy')
+const taskOption = document.querySelector('.tasks-options');
+const listOfTasks = list.map((t) => `<li class="flex-justify">
+                <div class="tasks flex">
+                    <input type="checkbox">
+                    <h2>${t.description}</h2>
+                </div>
+                <ul class="options">
+                    <li ><button><i class="fa-solid fa-ellipsis-vertical"></i></button></li>
+                    <li class="hide"><button>edit</button></li>
+                    <li class="hide"><button>remove</button></li>
+                </ul>
+            </li>`).join('');
+taskOption.innerHTML += listOfTasks;
