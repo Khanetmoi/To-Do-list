@@ -4,6 +4,7 @@ import updateLocal from './modules/updateLocal.js';
 import editTask from './modules/editTask.js';
 import removeTask from './modules/remove.js';
 import clear from './modules/clear.js';
+
 const taskOption = document.querySelector('.tasks-options');
 const textInput = document.querySelector('.input-width');
 const clearBtn = document.querySelector('.clear-button');
