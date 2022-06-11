@@ -1,73 +1,37 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
-> Description the project.
-
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+# To do list
+In this project, you will build a simple HTML list of To Do tasks. The list will be styled according to the specifications listed later in this lesson. This simple web page will be built using webpack and served by a webpack dev server.
 
 
-## Getting Started
+# Built With
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+    html 5 , css
+    visual studio code
+    
+# Link to the result of the website
+  https://khanetmoi.github.io/Portfolio-setup-and-mobile-version-skeleton/
 
+# 👤 Author1
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+    GitHub: @Khanetmoi
+    Twitter: @InayatVan
+    LinkedIn: Khan Bitsindou
 
 
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
+# 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
+Feel free to check the issues page.
+Show your support
 
 Give a ⭐️ if you like this project!
+Acknowledgments
 
-## Acknowledgments
+    Hat tip to anyone whose code was used
+    Inspiration
+   
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+📝 License
