@@ -53,3 +53,38 @@ li {
   width: 100%;
   height: 40px;
 }
+
+.fa-trash-can {
+  display: none;
+  float: right;
+}
+
+.fa-ellipsis-vertical {
+  float: right;
+}
+
+.checked {
+  background-color: #fffed3;
+}
+
+.crossed {
+  text-decoration: line-through;
+}
+
+.trash-active {
+  display: block;
+}
+
+.edit-disable {
+  display: none;
+}
+
+.taskContainer {
+  margin: 25px 0;
+  height: 50px;
+  align-content: center;
+}
+
+.editInput {
+  width: 95%;
+}
