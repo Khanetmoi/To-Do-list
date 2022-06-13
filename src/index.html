@@ -4,10 +4,22 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/bf723a76a7.js" crossorigin="anonymous"></script>
     <title><%= htmlWebpackPlugin.options.title %></title>
 </head>
 <body>
-    <h1>Todo List</h1>
-    <p>the thing goes</p>
+    <div class="maincontainer">
+        <div class="title-refresh flex-justify">
+            <h1>Today's to do</h1>
+            <button ><i class="fa-solid fa-arrows-rotate"></i></button>
+        </div>
+        <form >
+        <input type="text" placeholder="Add to your list" class="input-width">
+        <div class="tasks-options"></div>
+        <button class="clear-button">clear all completed</button>
+        
+        </form>
+
+    </div>
 </body>
 </html>

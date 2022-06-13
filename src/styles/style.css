@@ -1,0 +1,90 @@
+h1 {
+  color: blue;
+}
+
+body,
+ul,
+li,
+input,
+button {
+  padding: 0;
+  margin: 0;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+button {
+  background-color: white;
+  border: none;
+}
+
+.hide {
+  display: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+.maincontainer {
+  margin: 10% 20%;
+  border: 1px solid black;
+  box-shadow: 5px -10px #888;
+  padding: 2% 2%;
+}
+
+.flex-justify {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.input-width {
+  width: 100%;
+  height: 40px;
+}
+
+.clear-button {
+  text-align: center;
+  background: gray;
+  width: 100%;
+  height: 40px;
+}
+
+.fa-trash-can {
+  display: none;
+  float: right;
+}
+
+.fa-ellipsis-vertical {
+  float: right;
+}
+
+.checked {
+  background-color: #fffed3;
+}
+
+.crossed {
+  text-decoration: line-through;
+}
+
+.trash-active {
+  display: block;
+}
+
+.edit-disable {
+  display: none;
+}
+
+.taskContainer {
+  margin: 25px 0;
+  height: 50px;
+  align-content: center;
+}
+
+.editInput {
+  width: 94%;
+}
