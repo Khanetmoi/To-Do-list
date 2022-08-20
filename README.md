@@ -10,7 +10,8 @@ In this project, you will build a simple HTML list of To Do tasks. The list will
     visual studio code
     
 # Link to the result of the website
-  https://khanetmoi.github.io/Portfolio-setup-and-mobile-version-skeleton/
+ [ To-do List](https://khanetmoi.github.io/To-Do-list/)
+
 
 # 👤 Author1
 
